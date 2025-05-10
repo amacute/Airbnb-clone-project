@@ -1,1 +1,2 @@
 # Airbnb-clone-project
+The Airbnb Clone PWA is a web app that mimics Airbnb’s core features, including user registration, property listings, booking, payment integration, and reviews. Built with React.js for the frontend and Django REST Framework for the backend, it supports offline capabilities through PWA features, ensuring a fast and responsive user experience on any device. The app also integrates caching, Redis, and Docker for optimized performance and easy deployment.
